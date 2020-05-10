@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liga>
+    <Equipos>
+        <Athletic_de_Bilbao>
+            <direccion>Rafael Moreno Pitxitxi, s/n, 48013 Bilbo, Bizkaia</direccion>
+            <jugadores>Iñaki Williams,Aduriz,Iker Muniain, Raul Gracia, Unai Simon</jugadores>
+            <año_fundado>1898</año_fundado>
+        </Athletic_de_Bilbao>
+        <Barça>
+            <direccion>Aristides Maillol 08028 Barcelona, España</direccion>
+            <jugadores>Lionel Messi,Gerard Pique,Antoine Griezzman,Luis Suarez,Nelson Semedo</jugadores>
+            <año_fundado>1899</año_fundado>
+        </Barça>
+        <Celta>
+            <direccion>Av. de Balaídos, 13, 36210 Vigo, PO</direccion>
+            <jugadores>Denis Suarez, Rafinha,Iago Aspas, Murillo, Fiodor Smolov </jugadores>
+            <año_fundado>1923</año_fundado>
+        </Celta>
+        <Real_Madrid>
+            <direccion>Av. de Concha Espina, 1, 28036 Madrid</direccion>
+            <jugadores>Eden Hazard, Fede Valverde, Karim Bencema, Luka Modric, Dani Carvajal</jugadores>
+            <año_fundado>1902</año_fundado>
+        </Real_Madrid>
+        <Valencia>
+            <direccion>Av. de Suècia, s/n, 46010 València, Valencia</direccion>
+            <jugadores>Rodrigo, Ferran Torres, Maximiliano Gomez, Florenci,Guedes</jugadores>
+            <año_fundado>1919</año_fundado>
+        </Valencia>
+        <Real_Sociedad>
+            <direccion>Paseo Arrapide, 52. 20160 Zubieta / San Sebastián (Gipuzkoa)</direccion>
+            <jugadores>Martin Odegaard, Isak, Willian Jose, Mikel Oyarzabal, Adnan Januzaj </jugadores>
+            <año_fundado>1909</año_fundado>
+        </Real_Sociedad>
+        <Mallorca>
+            <direccion>Camí dels Reis s/n en el polígono industrial Can Valero de Palma</direccion>
+            <jugadores>Kubo, Camilo Hernandez, Bludimir,Lago Junior,Alejandro Pozo</jugadores>
+            <año_fundado>1916</año_fundado>
+        </Mallorca>
+        <Eibar>
+            <direccion>Estadio Municipal de Ipurua, Ipurua Kalea, 2, 20600 Eibar </direccion>
+            <jugadores>Inui, Fabian Orellana, Sergi Enrich,Jose Valdes,Gonzalo Escalante</jugadores>
+            <año_fundado>1940</año_fundado>
+        </Eibar>
+        <Villareal>
+            <direccion></direccion>
+            <jugadores>Bacca,Santi Cazorla ,Paco Alcacer,Alberto Moreno , Pau Torres</jugadores>
+            <año_fundado>1923</año_fundado>
+        </Villareal>
+        <Granada>
+            <direccion></direccion>
+            <jugadores>Carlos Fernandez, Soldado; Antonio Puertas, Vallejo,Angel Montoro,Ismail Koybasi</jugadores>
+            <año_fundado>1931</año_fundado>
+        </Granada>
+        <Leganes>
+            <direccion>Calle Arquitectura, s/n, 28918 Leganés, Madrid</direccion>
+            <jugadores>Oscar Rodriguez,Ivan Cuellar, Roger Assale, Bryan Gil, Guido Carrillo</jugadores>
+            <año_fundado>1928</año_fundado>
+        </Leganes>
+        <Osasuna>
+            <direccion>Calle del Sadar, 59D, 31006 Pamplona, Navarra</direccion>
+            <jugadores>Ezequiel Avila, Nacho Vidal ,Ruben Garcia , Pervis Estupiñan, Eric Gallego</jugadores>
+            <año_fundado>1920</año_fundado>
+        </Osasuna>
+        <Alaves>
+            <direccion> Cervantes Ibilbidea, 20, 01007 Gasteiz, Araba</direccion>
+            <jugadores>Lucas Perez, Joselu, Edgar Mendez ,Oliver Burke , Fernando Pacheco</jugadores>
+            <año_fundado>1921</año_fundado>
+        </Alaves>
+        <Levante>
+            <direccion>Carrer de Sant Vicent de Paül, 44, 46019 València, Valencia</direccion>
+            <jugadores>Jose Luis Morales, Roger Marti, Jose Gomez Campaña ,Aitor Fernandez,Enis Bardhi</jugadores>
+            <año_fundado>1909</año_fundado>
+        </Levante>
+        <Español>
+            <direccion>Avinguda del Baix Llobregat, 100</direccion>
+            <jugadores>Raul de Tomas, Wu Lei, Jonathan Calleri,Adrian Embarba, Marc Roca Junque</jugadores>
+            <año_fundado>1900</año_fundado>
+        </Español>
+        <Sevilla>
+            <direccion> C/ Sevilla Fútbol Club, s/n 41005</direccion>
+            <jugadores>Diego Carlos, Ever Banega , Jesus Navas, Sergio Reguilon, Suso</jugadores>
+            <año_fundado>1890</año_fundado> 
+        </Sevilla>
+        <Betis>
+            <direccion>Av de Heliópolis, s/n, 41012 Sevilla</direccion>
+            <jugadores>Nabil Fekir, Joaquin, Emerson, Carles Aleña, Andres Guardado</jugadores>
+            <año_fundado>1907</año_fundado>
+        </Betis>
+        <Real_Valladolid>
+            <direccion>Av. Mundial 82, s/n, 47014 Valladolid</direccion>
+            <jugadores>Ben Arfa, Sergi Guardiola, Sandro Ramirez, Jordi Masip, Nacho Martinez</jugadores>
+            <año_fundado>1928</año_fundado>
+        </Real_Valladolid>
+        <Atletico_Madrid>
+            <direccion>Av. Luis Aragones, 4, 28022 Madrid</direccion>
+            <jugadores>Joao Felix, Jan Oblak, Alvaro Morata , Marcos Llorente, Koke</jugadores>
+            <año_fundado>1903</año_fundado>
+        </Atletico_Madrid>
+        <Getafe>
+            <direccion>Av. Teresa de Calcuta, 12, 28903 Getafe, Madrid</direccion>
+            <jugadores>Kenedy, Angel ,Jorge Molina,Damian Suarez,Jaime Mata</jugadores>
+            <año_fundado>1983</año_fundado>
+        </Getafe>
+    </Equipos>
+    <jornada1>
+        <partidos>
+            <partido>
+                <local>Athletic de Bilbao</local>
+                <visitante>Barça</visitante>
+                <resultado>1-0</resultado>
+                <goles>Aduriz</goles>
+
+            </partido>
+            <partido>
+                <local>Celta</local>
+                <visitante>Real Madrid</visitante>
+                <resultado>1-3</resultado>
+                <goles>Kross, Bencema,Lucas Vazquez,Iker Losada</goles>
+
+            </partido>
+            <partido>
+                <local>Valencia</local>
+                <visitante>Real Sociedad</visitante>
+                <resultado>1-1</resultado>
+                <goles>Oyarzabal,Gameiro</goles>
+
+            </partido>
+            <partido>
+                <local>Mallorca</local>
+                <visitante>Eibar</visitante>
+                <resultado>2-1</resultado>
+                <goles>Dani,Paulo Oliveira, Paulo Oliveira(pp)</goles>
+
+            </partido>
+            <partido>
+                <local>Villareal</local>
+                <visitante>Granada</visitante>
+                <resultado>4-4</resultado>
+                <goles>Cazorla ,Moi Gomez, Gerard Moreno, Samuel Chukwueze,Fede Vico,Ruben Peña(pp),Soldado,Puertas</goles>
+
+            </partido>
+            <partido>
+                <local>Leganes</local>
+                <visitante>Osasuna</visitante>
+                <resultado>0-1</resultado>
+                <goles>Chimy</goles>
+
+            </partido>
+            <partido>
+                <local>Alaves</local>
+                <visitante>Levante</visitante>
+                <resultado>1-0</resultado>
+                <goles>Joselu</goles>
+
+            </partido>
+            <partido>
+                <local>Español</local>
+                <visitante>Sevilla</visitante>
+                <resultado>0-2</resultado>
+                <goles>Reguilon, Nolito</goles>
+
+            </partido>
+            <partido>
+                <local>Betis</local>
+                <visitante>Valladolid</visitante>
+                <resultado>1-2</resultado>
+                <goles>Loren, Sergi Guardiola, Oscar Plano</goles>
+
+            </partido>
+            <partido>
+                <local>Atletico Madrid</local>
+                <visitante>Getafe</visitante>
+                <resultado>1-0</resultado>
+                <goles>Morata</goles>
+
+            </partido>
+        
+        </partidos>
+
+
+
+
+
+
+    </jornada1>
+
+
+
+
+
+
+
+
+
+<liga/>

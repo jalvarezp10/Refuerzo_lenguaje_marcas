@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE note [
+    <!ELEMENT cursos(curso)>
+    <!ELEMENT curso(alumno)>
+    <!ELEMENT alumno(dni,nombre,apellidos,asignaturas)>
+    <!ELEMENT dni(#PCDATA)>
+    <!ELEMENT nombre(#PCDATA)>
+    <!ELEMENT apellidos(#PCDATA)>
+    <!ELEMENT asignaturas(asignatura codigo)>
+    <!ELEMENT asignatura codigo(nombre, profesor)>
+    <!ELEMENT nombre(#PCDATA)>
+    <!ELEMENT profesor(dni,nombre,apellidos)>
+    <!ELEMENT dni(#PCDATA)>
+    <!ELEMENT nombre(#PCDATA)>
+    <!ELEMENT apellidos(#PCDATA)>
+]>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE note [
+    <!ELEMENT ventas(venta)>
+    <!ELEMENT venta(importe,comprador,vendedor,IdFactura)>
+    <!ELEMENT importe(#PCDATA)>
+    <!ELEMENT comprador(#PCDATA)>
+    <!ELEMENT vendedor(#PCDATA)>
+    <!ELEMENT IdFactura(#PCDATA)>
+]>
